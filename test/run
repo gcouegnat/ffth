@@ -1,0 +1,2 @@
+#!/bin/bash
+../ffth --input IM64.raw  --nx 64 --ny 64 --nz 64 --loading load.inp --material mat.inp  --phase phases.inp
